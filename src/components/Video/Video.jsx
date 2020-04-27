@@ -10,6 +10,7 @@ function Video() {
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
+          title="COVID-19: The Facts"
         />
       </div>
       <div>
@@ -19,6 +20,7 @@ function Video() {
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
+          title="COVID-19: The Facts"
         />
       </div>
     </div>

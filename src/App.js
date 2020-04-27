@@ -32,8 +32,10 @@ class App extends Component {
     return (
       <div className={styles.App}>
         <img src={Logo} className={styles.image} alt="covid19" />
-        <Cards data={data} />
         <CountryPicker handleCountryChange={this.handleCountryChange} />
+
+        <Cards data={data} />
+
         <Chart data={data} country={country} />
         <Video />
       </div>
