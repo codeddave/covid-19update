@@ -1,0 +1,27 @@
+.iframe {
+  margin-top: 40px;
+}
+
+.facts {
+  width: 560px;
+  height: 315px;
+  margin-bottom: 20px;
+}
+
+.manage {
+  width: 560px;
+  height: 315px;
+}
+
+@media (max-width: 768px) {
+  .facts {
+    width: 350px;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+
+  .manage {
+    width: 350px;
+    height: 200px;
+  }
+}
