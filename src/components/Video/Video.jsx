@@ -7,9 +7,9 @@ function Video() {
         <iframe
           className={styles.facts}
           src="https://www.youtube.com/embed/Ma07a6svw5w"
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
+          allowFullScreen
           title="COVID-19: The Facts"
         />
       </div>
@@ -17,9 +17,9 @@ function Video() {
         <iframe
           className={styles.manage}
           src="https://www.youtube.com/embed/qPoptbtBjkg"
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
+          allowFullScreen
           title="COVID-19: The Facts"
         />
       </div>
