@@ -1,6 +1,5 @@
 {
   "name": "covid-19stats",
-  "homepage": "https://codeddave.github.io/covid-19update",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
